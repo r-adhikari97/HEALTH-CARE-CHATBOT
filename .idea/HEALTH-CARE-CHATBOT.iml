@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Include" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/adodbapi" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/comtypes" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/comtypes-1.3.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/dateutil" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/isapi" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/joblib" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/joblib-1.3.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/numpy" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/numpy-1.26.4.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/numpy.libs" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pandas" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pandas-2.2.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pandas.libs" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pypiwin32-223.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/python_dateutil-2.9.0.post0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pythonwin" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pyttsx3" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pyttsx3-2.90.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pytz" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pytz-2024.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pywin32-306.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/pywin32_system32" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/scikit_learn-1.4.1.post1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/scipy" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/scipy-1.12.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/scipy.libs" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/six-1.16.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/sklearn" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/threadpoolctl-3.4.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/tzdata" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/tzdata-2024.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/win32" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/win32com" />
+      <excludeFolder url="file://$MODULE_DIR$/myenv/Lib/site-packages/win32comext" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11 (HEALTH-CARE-CHATBOT)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

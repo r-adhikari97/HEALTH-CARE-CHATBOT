@@ -84,7 +84,7 @@ def calc_condition(exp,days):
 
 def getDescription():
     global description_list
-    with open('MasterData/symptom_Description.csv') as csv_file:
+    with open('Data/symptom_Description.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
         for row in csv_reader:
@@ -96,7 +96,7 @@ def getDescription():
 
 def getSeverityDict():
     global severityDictionary
-    with open('MasterData/symptom_severity.csv') as csv_file:
+    with open('Data/symptom_severity.csv') as csv_file:
 
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
@@ -110,7 +110,7 @@ def getSeverityDict():
 
 def getprecautionDict():
     global precautionDictionary
-    with open('MasterData/symptom_precaution.csv') as csv_file:
+    with open('Data/symptom_precaution.csv') as csv_file:
 
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
